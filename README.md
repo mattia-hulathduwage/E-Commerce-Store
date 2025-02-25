@@ -1,7 +1,7 @@
 # eCommerce Store
 
 This is a full-stack eCommerce web application built using React.js for the frontend, Node.js for the backend, and MySQL for the database. It allows users to browse products, add them to a cart, and complete orders.
-
+![Alt text](https://github.com/mattia-hulathduwage/E-Commerce-Store/blob/master/sscreenshot.png?raw=true)
 ## Features
 
 - Product listing and details page
